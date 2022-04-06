@@ -1,0 +1,1 @@
+这里是readme, 此项目用于测试Idea与Git的配置
